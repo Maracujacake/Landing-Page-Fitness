@@ -1191,11 +1191,6 @@ video {
   line-height: 1.75rem;
 }
 
-.hover\:text-neutral-400:hover {
-  --tw-text-opacity: 1;
-  color: rgb(163 163 163 / var(--tw-text-opacity));
-}
-
 .hover\:text-rose-400:hover {
   --tw-text-opacity: 1;
   color: rgb(251 113 133 / var(--tw-text-opacity));
@@ -1560,3 +1555,4 @@ video {
     max-width: 20rem;
   }
 }
+

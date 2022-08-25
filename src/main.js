@@ -1,6 +1,3 @@
-import './index.html'
-import '../dist/output.css'
-import '../src/input.css'
 const navBtn = document.querySelector('#menu');
 const menuBar = document.querySelector('[role="menubar"]');
 
